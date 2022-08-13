@@ -1,10 +1,35 @@
-
-#thisBody {
-    color: 48CAE4;
+.thisBody {
+  background-color: #e9edc9;
+  font-size: 26px;
 }
 #nome {
-    font-style: italic;
+  font-style: italic;
+  text-shadow:2px 5px rgb(121, 201, 101);
+}
+
+#fraseFoto{
+  font-family: cursive;
+  font-style: oblique;
 }
 #foto {
-    border-radius: 20%;
+  border-radius: 20%;
+}
+.paragrafo {
+  font-style: oblique;
+  
+}
+#lista {
+  text-decoration: underline;
+}
+#trabalho {
+    font-size: 30px;
+}
+#ingles{
+    font-size: 28px;
+}
+#aprender {
+    font-size: 26px;
+}
+#cozinhar {
+    font-size: 24px;
 }
