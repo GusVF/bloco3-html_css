@@ -1,7 +1,10 @@
 
-
-
-
+#thisBody {
+    color: 48CAE4;
+}
 #nome {
     font-style: italic;
+}
+#foto {
+    border-radius: 20%;
 }
