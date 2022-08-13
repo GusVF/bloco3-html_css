@@ -4,10 +4,10 @@
 }
 #nome {
   font-style: italic;
-  text-shadow:2px 5px rgb(121, 201, 101);
+  text-shadow: 2px 5px rgb(121, 201, 101);
 }
 
-#fraseFoto{
+#fraseFoto {
   font-family: cursive;
   font-style: oblique;
 }
@@ -16,20 +16,19 @@
 }
 .paragrafo {
   font-style: oblique;
-  
 }
 #lista {
   text-decoration: underline;
 }
 #trabalho {
-    font-size: 30px;
+  font-size: 30px;
 }
-#ingles{
-    font-size: 28px;
+#ingles {
+  font-size: 28px;
 }
 #aprender {
-    font-size: 26px;
+  font-size: 26px;
 }
 #cozinhar {
-    font-size: 24px;
+  font-size: 24px;
 }
