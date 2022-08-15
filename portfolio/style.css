@@ -1,25 +1,47 @@
-.thisBody {
-  background-color: #e9edc9;
+.theBody {
+  background-color: #d8e09b;
   font-size: 26px;
 }
 #nome {
   font-style: italic;
   text-shadow: 2px 5px rgb(121, 201, 101);
+  text-align: center;
 }
 
 #fraseFoto {
   font-family: cursive;
   font-style: oblique;
+  margin-left: 280px;
+  position: absolute;
+  top: 190px;
 }
 #foto {
   border-radius: 20%;
+  padding: 10px;
+  background-color: red;
 }
-.paragrafo {
+.sobreMim {
   font-style: oblique;
 }
-#lista {
+#ordenada {
   text-decoration: underline;
 }
+ul li:nth-of-type(odd) {
+  background-color: lightgray;
+}
+
+a {
+  padding:20px;
+  
+}
+a:hover{
+  font-weight: 800;
+  color: red;
+  border:3px solid black;
+  padding: 1px;
+  border-radius: 5px;
+}
+
 #trabalho {
   font-size: 30px;
 }
