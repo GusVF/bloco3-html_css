@@ -20,8 +20,13 @@
   padding: 10px;
   background-color: red;
 }
+
+.decoration {
+  text-decoration:underline;
+}
 .sobreMim {
   font-style: oblique;
+  
 }
 #ordenada {
   text-decoration: underline;
@@ -30,16 +35,15 @@ ul li:nth-of-type(odd) {
   background-color: lightgray;
 }
 
-a {
-  padding:20px;
-  
-}
-a:hover{
+a:hover {
   font-weight: 800;
   color: red;
-  border:3px solid black;
-  padding: 1px;
-  border-radius: 5px;
+}
+a {
+  padding: 1%;
+  background-color: rgb(190, 161, 156);
+  border-radius: 8px;
+  margin-left: 20px;
 }
 
 #trabalho {
